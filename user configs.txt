@@ -1,0 +1,2 @@
+qmk config user.keyboard=handwired/dactyl_manuform/5x6
+qmk config user.keymap=sanbae9
